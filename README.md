@@ -24,7 +24,7 @@ Python 3.8+
 Install dependencies:
 
 ```bash
-pip install pymupdf python-docx markdown beautifulsoup4 pandas openpyxl
+pip install -r requirements.txt
 ```
 
 ---
@@ -125,6 +125,7 @@ python convert_to_json.py spreadsheet.xlsx
 ```
 file_to_json/
 ├── convert_to_json.py   # Main converter script
+├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
 
