@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+markdown
+beautifulsoup4
+pandas
+openpyxl
